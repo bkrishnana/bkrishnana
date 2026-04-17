@@ -153,5 +153,7 @@ I use GitHub to showcase my professional profile, leadership capabilities, trans
 
 Connect
 Bengaluru, Karnataka, India
+www.linkedin.com/in/balakrisnana
+https://github.com/bkrishnana/bkrishnana/
 
 Open to sharing insights on enterprise transformation, PMO excellence, compliance, AI-enabled operations, observability, and global delivery leadership
